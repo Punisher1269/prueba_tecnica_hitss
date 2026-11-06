@@ -1,0 +1,9 @@
+{
+  "id_alarma": 4661427,
+  "tec_2g": 0, "tec_3g": 0, "tec_4g": 100,
+  "fecha_creacion": "2026-10-10T18:37:53",
+  "municipio": "Quetame",
+  "departamento": "Cundinamarca",
+  "notificada": "N",
+  "nivel": "CRITICO"
+}
