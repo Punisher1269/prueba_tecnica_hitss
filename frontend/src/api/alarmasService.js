@@ -41,6 +41,6 @@ export const alarmasService = {
       return { fecha: new Date().toLocaleDateString("sv-SE"), total, por_hora };
     }
 
-    return http("/alarmas/resumen-hoy");
+    return http("/alarmas/resumen_hoy");
   },
 };
