@@ -22,7 +22,7 @@ export const alarmasService = {
     }
 
     const formulario = new FormData();
-    formulario.append("archivo", archivo);
+    formulario.append("file", archivo);
     return http("/alarmas/import", { method: "POST", body: formulario });
   },
 
